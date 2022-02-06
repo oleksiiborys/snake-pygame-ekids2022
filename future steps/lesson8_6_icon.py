@@ -16,7 +16,7 @@ dis_width = 800
 dis_height = 600
 pygame.init()
 dis = pygame.display.set_mode(size=(dis_width, dis_height))
-pygame.display.set_caption("Snake game for EKIDS2021")
+pygame.display.set_caption("Snake game for EKIDS2022")
 icon = pygame.image.load('assets/img/head.png')
 pygame.display.set_icon(icon)
 
