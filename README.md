@@ -25,10 +25,15 @@ https://github.com/oleksiiborys/snake-pygame-ekids2022
 Або ж звертайтесь з питаннями до тренерів еКідс:
 Олексій, контакти: oleksii_borys@epam.com 
 
+# В папці Materials даного репозиторію
+міститься інструкція, презентація і зображення з різницею коду для двох перших уроків. 
 
-Гра базується на https://www.edureka.co/blog/snake-game-with-pygame/
 
-Додаткові матеріали:
+
+# Гра базується на 
+https://www.edureka.co/blog/snake-game-with-pygame/
+
+# Додаткові матеріали:
 
 Створення гри арканоїд: https://code.tutsplus.com/tutorials/building-games-with-python-3-and-pygame-part-1--cms-30081
 
